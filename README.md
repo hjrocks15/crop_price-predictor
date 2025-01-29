@@ -1,6 +1,6 @@
 # CROP  PREDICTOR
 
-
+(Prediction model/sample_image.png)
 
 
 This project aims to predict the prices of various crops using machine learning algorithms. By leveraging historical crop price data along with weather and market conditions, this system provides farmers, traders, and policymakers with insights to make informed decisions.
