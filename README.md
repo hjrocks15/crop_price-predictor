@@ -1,6 +1,6 @@
 # CROP  PREDICTOR
 
-!(crop_price-predictor
+(crop_price-predictor
 /Prediction model//Screenshot (287).png)
 
 
