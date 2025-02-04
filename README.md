@@ -3,7 +3,7 @@
 ![Image](https://github.com/hjrocks15/crop_price-predictor/blob/main/Prediction%20model/Screenshot%20(287).png)
 
 
-This project aims to predict the prices of various crops using machine learning algorithms. By leveraging historical crop price data along with weather and market conditions, this system provides farmers, traders, and policymakers with insights to make informed decisions.
+This project aims to predict the prices of various crops using machine learning algorithms.and By leveraging historical crop price data along with weather and market conditions, this system provides farmers, traders, and policymakers with insights to make informed decisions.
 
 ## Features
 Data Preprocessing: Handles missing values, normalizes data, and encodes categorical variables.
